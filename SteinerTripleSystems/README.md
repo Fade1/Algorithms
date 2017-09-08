@@ -1,3 +1,3 @@
 # Steiner Triple Systems
 
-? pe????af? �??s?eta? [ed?](http://nbviewer.jupyter.org/github/dmst-algorithms-course/assignment-2017-2/blob/master/assignment_2017_2.ipynb).
+Η περιγραφή βρίσκεται [εδώ]()
